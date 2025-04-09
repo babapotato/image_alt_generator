@@ -1,0 +1,7 @@
+pyinstaller==6.4.0
+pillow
+selenium
+webdriver_manager
+openai
+requests
+python-dotenv 
